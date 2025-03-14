@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939268047607",
+    "project_id": "alex-da075",
+    "storage_bucket": "alex-da075.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939268047607:android:45499df45aac55d0c5c9f2",
+        "android_client_info": {
+          "package_name": "com.example.events"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZRCX8-R6wNpRlSBxTP5_hu0BVR8LKubA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
